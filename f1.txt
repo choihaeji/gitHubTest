@@ -2,3 +2,4 @@ git test
 
 a
 b
+c : git_home
